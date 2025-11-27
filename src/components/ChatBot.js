@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 import React, { useState, useEffect } from "react";
 
 const ChatBot = ({ user }) => {
